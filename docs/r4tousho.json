@@ -1,0 +1,55 @@
+{
+    "council": {
+        "label": "議会費",
+        "value": 287302000
+    },
+    "general_affair": {
+        "label": "総務費",
+        "value": 4755891000
+    },
+    "social_welfare": {
+        "label": "民生費",
+        "value": 13010454000
+    },
+    "public_health_and_sanitation": {
+        "label": "衛生費",
+        "value": 4552485000
+    },
+    "labor": {
+        "label": "労働費",
+        "value": 57588000
+    },
+    "agriculture_forestry_and_fisheries": {
+        "label": "農林水産業費",
+        "value": 1992308000
+    },
+    "commerce_and_industry": {
+        "label": "商工費",
+        "value": 996034000
+    },
+    "civil_engineering": {
+        "label": "土木費",
+        "value": 2478463000
+    },
+    "firefighting": {
+        "label": "消防費",
+        "value": 1517755000
+    },
+    "education": {
+        "label": "教育費",
+        "value": 4128744000
+    },
+    "debt_service": {
+        "label": "公債費",
+        "value": 4193175000
+    },
+    "sundry": {
+        "label": "諸支出金",
+        "value": 1421801000
+    },
+    "reserve": {
+        "label": "予備費",
+        "value": 1000000
+    }
+
+}
