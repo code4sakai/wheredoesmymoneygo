@@ -1,1 +1,2 @@
-# wheredoesmymoneygo
+# うらのおかねどこいってもたんけの？坂井市さん！
+Where does my money go?を参考に市税の使い道を可視化しようとしています．
